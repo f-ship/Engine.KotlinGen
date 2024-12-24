@@ -1,0 +1,20 @@
+[submodule "DSL"]
+	path = DSL
+	url = https://github.com/f-ship/Engine.KotlinGen.DSL
+	branch = main
+[submodule "Gen"]
+	path = Gen
+	url = https://github.com/f-ship/Engine.KotlinGen.Gen
+    branch = main
+[submodule "KSP"]
+	path = KSP
+	url = https://github.com/f-ship/Engine.KotlinGen.KSP
+    branch = main
+[submodule "TaskManager"]
+	path = TaskManager
+	url = https://github.com/f-ship/Engine.KotlinGen.TaskManager
+    branch = main
+[submodule "Writer"]
+	path = Writer
+	url = https://github.com/f-ship/Engine.KotlinGen.Writer
+    branch = main
